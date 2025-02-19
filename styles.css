@@ -465,7 +465,7 @@ background:linear-gradient(to top,rgb(234, 234, 242),rgb(246, 225, 225))
 /* 🖱 Hover Effects */
 .participants-list li:hover {
   transform: scale(1.03);
-  background: #475798c9 ;
+  background: #28397de1 ;
   color: whitesmoke;
 }
 
